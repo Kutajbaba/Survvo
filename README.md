@@ -26,8 +26,7 @@ The MVP focuses on:
 
   🧱 Tech Stack
 
-(update this as your implementation evolves)
-	•	Frontend: Angular
+	•	Frontend: Next.js
 	•	Backend: Node.js / Express
 	•	Database: Firebase / PostgreSQL
 	•	Auth: Supabase / Firebase Auth
