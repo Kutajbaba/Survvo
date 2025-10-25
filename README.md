@@ -1,4 +1,3 @@
-# Survvo
 🧩 About Survvo
 
 Survvo is a community-driven research platform that makes it easier for individuals, small teams, and organizations to recruit participants and collect meaningful insights.
@@ -17,7 +16,6 @@ When you contribute as a participant, you earn tokens. When you create a survey,
 
 ⚙️ MVP Focus
 
-The MVP focuses on:
 	•	Smart matching between surveys and participants
 	•	Token-based reward system
 	•	Participant profiles based on interests and experiences
